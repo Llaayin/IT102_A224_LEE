@@ -1,0 +1,16 @@
+=================================
+        LEE BANK RECEIPT
+=================================
+Date:           2026-09-13 14:13:41
+Account Name:   Aaron Jared  Lee
+Account No.:    110607
+Account Type:   Savings Account
+---------------------------------
+Transaction:    Savings Goal Deposit
+Amount:         PHP 10000.00
+Details:        Goal: RTX 3060
+---------------------------------
+New Balance:    PHP 500.00
+=================================
+Thank you for banking with Lee Bank.
+=================================

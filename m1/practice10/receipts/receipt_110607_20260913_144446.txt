@@ -1,0 +1,16 @@
+=================================
+        LEE BANK RECEIPT
+=================================
+Date:           2026-09-13 14:44:46
+Account Name:   Aaron Jared  Lee
+Account No.:    110607
+Account Type:   Savings Account
+---------------------------------
+Transaction:    Bill Payment
+Amount:         PHP 10000.00
+Details:        Biller: Davao Light | Reference: 12345678
+---------------------------------
+New Balance:    PHP 10510.00
+=================================
+Thank you for banking with Lee Bank.
+=================================

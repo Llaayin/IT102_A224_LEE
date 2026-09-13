@@ -1,0 +1,9 @@
+Account Number: 110607
+Account Name: Aaron Jared  Lee
+PIN: 1234
+Account Type: Savings Account
+Balance: 10510.00
+Savings Goal Name: RTX 3060
+Savings Goal Target: 30000.00
+Savings Goal Saved: 30000.00
+

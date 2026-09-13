@@ -1,0 +1,64 @@
+Timestamp: 2026-09-13 14:12:27
+Account Number: 110607
+Account: Aaron Jared  Lee
+Account Type: Savings Account
+Transaction: Deposit
+Amount: ₱2500.00
+Balance After: ₱12500.00
+
+Timestamp: 2026-09-13 14:12:45
+Account Number: 110607
+Account: Aaron Jared  Lee
+Account Type: Savings Account
+Transaction: Withdraw
+Amount: ₱1000.00
+Balance After: ₱11500.00
+
+Timestamp: 2026-09-13 14:13:07
+Account Number: 110607
+Account: Aaron Jared  Lee
+Account Type: Savings Account
+Transaction: Bill Payment - PLDT (Ref 12345678)
+Amount: ₱1000.00
+Balance After: ₱10500.00
+
+Timestamp: 2026-09-13 14:13:41
+Account Number: 110607
+Account: Aaron Jared  Lee
+Account Type: Savings Account
+Transaction: Savings Goal Deposit - RTX 3060
+Amount: ₱10000.00
+Balance After: ₱500.00
+
+Timestamp: 2026-09-13 14:14:32
+Account Number: 110607
+Account: Aaron Jared  Lee
+Account Type: Savings Account
+Transaction: Deposit
+Amount: ₱40000.00
+Balance After: ₱40500.00
+
+Timestamp: 2026-09-13 14:14:39
+Account Number: 110607
+Account: Aaron Jared  Lee
+Account Type: Savings Account
+Transaction: Savings Goal Deposit - RTX 3060
+Amount: ₱20000.00
+Balance After: ₱20500.00
+
+Timestamp: 2026-09-13 14:43:55
+Account Number: 110607
+Account: Aaron Jared  Lee
+Account Type: Savings Account
+Transaction: Deposit
+Amount: ₱10.00
+Balance After: ₱20510.00
+
+Timestamp: 2026-09-13 14:44:46
+Account Number: 110607
+Account: Aaron Jared  Lee
+Account Type: Savings Account
+Transaction: Bill Payment - Davao Light (Ref 12345678)
+Amount: ₱10000.00
+Balance After: ₱10510.00
+
