@@ -1,16 +1,17 @@
 from datetime import datetime
 
+
 def withdraw_money(account, amount):
 
-    if amount > 0:
+    if amount <= 0:
         return False
 
-    success = account.withdrawal(amount)
+    success = account.withdraw(amount)
 
     if success:
 
         timestamp = datetime.now().strftime(
-             "%Y-%m-%d %H:%M:%S"
+            "%Y-%m-%d %H:%M:%S"
         )
 
         with open("transactions.txt", "a") as file:
