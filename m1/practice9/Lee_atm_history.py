@@ -4,7 +4,7 @@ def view_history():
 
         with open("transactions.txt", "r") as file:
 
-            lines = file.readlines():
+            lines = file.readlines()
 
         return lines
 
