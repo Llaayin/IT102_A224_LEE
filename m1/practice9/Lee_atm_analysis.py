@@ -62,48 +62,68 @@ def analyze_transactions():
             except ValueError:
                 current["amount"] = 0.0
 
+            
             if "type" in current and "amount" in current:
 
                 transactions.append(current.copy())
 
             current = {}
 
+
+
     total_transactions = len(transactions)
 
     deposits = 0
     withdrawals = 0
 
+
+
+
     total_deposited = 0
     total_withdrawn = 0
     largest_transaction = 0
 
+
+
+
     latest_transaction = "None"
     latest_timestamp = "None"
+
 
     for transaction in transactions:
 
         transaction_type = transaction["type"]
         amount = transaction["amount"]
 
+        
         if transaction_type == "Deposit":
 
             deposits += 1
             total_deposited += amount
 
+        
         elif transaction_type == "Withdraw":
 
             withdrawals += 1
             total_withdrawn += amount
 
+
+        
         if amount > largest_transaction:
 
             largest_transaction = amount
 
+
+        
         latest_transaction = transaction_type
 
+        
         if "timestamp" in transaction:
 
             latest_timestamp = transaction["timestamp"]
+
+
+    
 
     if total_transactions > 0:
 
@@ -119,6 +139,7 @@ def analyze_transactions():
     else:
 
         average_transaction = 0
+
 
     return {
         "total_transactions": total_transactions,
