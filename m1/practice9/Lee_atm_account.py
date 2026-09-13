@@ -20,17 +20,3 @@ class Account:
             return True
         else:
             return False
-
-
-if __name__ == "__main__":
-    account = Account("Juan Dela Cruz", 10000.00)
-    print(f"Starting balance: ₱{account.check_balance():,.2f}")
-    
-    result = account.withdraw(2000.00)
-    print(f"Withdraw ₱2000.00 -> {result}")
-    print(f"Expected balance: ₱{account.check_balance():,.2f}")
-    
-    result = account.withdraw(15000.00)
-    print(f"Withdraw ₱15000.00 -> {result}")
-
-
