@@ -1,6 +1,6 @@
 from datetime import datetime
 
-def withdraw_money (account, amount):
+def withdraw_money(account, amount):
 
     if amount > 0:
         return False
